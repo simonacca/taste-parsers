@@ -1,0 +1,4 @@
+node_modules
+.env
+a.out.js
+a.out.wasm
